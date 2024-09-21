@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: url('couro-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+.card {
+    margin: 15px 0;
+}
